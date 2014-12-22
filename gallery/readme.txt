@@ -1,0 +1,1 @@
+﻿Foldery ze zdjęciami umieszczamy w folderze 'photos', odświeżamy stronę i cieszymy się nową galerią.
