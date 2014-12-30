@@ -1,4 +1,4 @@
 Web-projects
 ============
 
-Ropository contains my web project collected during my web programming education.
+Ropository contains my web projects collected during my web programming education.
